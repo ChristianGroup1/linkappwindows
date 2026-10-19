@@ -1,0 +1,1 @@
+Windows releases for LinkApp.
